@@ -1,4 +1,4 @@
-## Proyecto Interfaz Button
+# Proyecto Interfaz Button
 En este proyecto se presenta la interfaz con botton y text como practica formulario en JavaFx
 ## Imagen Interfaz
 ![Captura de Pantalla de la Aplicación](InterfazButton1.png).
