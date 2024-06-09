@@ -1,6 +1,7 @@
 ## Proyecto Interfaz Button
 En este proyecto se presenta la interfaz con botton y text como practica formulario en JavaFx
 ## Imagen Interfaz
+![Captura de Pantalla de la Aplicación](InterfazButton1.png).
 ### Button
 Un botón en JavaFX es un control de interfaz de usuario que permite a los usuarios interactuar con una aplicación. Al hacer clic en un botón, se puede desencadenar una acción, como abrir una nueva ventana, mostrar un mensaje o ejecutar una función.
 
