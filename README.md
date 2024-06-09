@@ -58,7 +58,6 @@ GridPane es un administrador de diseño en JavaFX que organiza sus elementos sec
 	        gridPane.setVgap(10);
 	        gridPane.setAlignment(Pos.TOP_LEFT);
 
-	        // Add Controls to GridPane
 	        gridPane.add(botton, 0, 0);
 	        gridPane.add(button, 1, 0);
 	        gridPane.add(check, 0, 1);
